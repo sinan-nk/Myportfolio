@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const projects = [
 { title: 'Ecommerce', description: 'Short desc', image: '/project1.png', url: 'https://lint-react-frontend.vercel.app/' },
-{ title: 'My Portfolio', description: 'Short desc', image: '/project2.png', url: 'https://lint-react-frontend.vercel.app/' },
+{ title: 'My Portfolio', description: 'Short desc', image: '/project2.png', url: 'https://myportfolio-orcin-sigma-38.vercel.app/' },
 ]
 
 
